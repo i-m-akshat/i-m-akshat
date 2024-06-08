@@ -6,7 +6,7 @@
 ### <div align="center">I'm Akshat Dwivedi, a full-time full-stack .NET developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Hotel Reservation System](https://github.com/Akshat4756/HotelReservationSystem)  
+- 🔭 I’m currently working on [Hotel Reservation System](https://github.com/Akshat4756/Hotel-Booking-Application-MERN-Stack-)  
   
 
 - 🌱 I’m currently learning MERN Stack  
