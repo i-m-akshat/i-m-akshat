@@ -85,7 +85,7 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat4756&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-m-akshat&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
 
@@ -94,7 +94,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Akshat4756&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=i-m-akshat&&style=flat-square" align="center" />
 </div>  
   
 
