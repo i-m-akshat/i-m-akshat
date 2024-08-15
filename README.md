@@ -16,7 +16,7 @@
 - ❓ Ask me about anything related to ASP.NET or C# and related technologies  
   
 
-- ⚡ Fun fact: I never learnt DSA  
+- ⚡ Fun fact: Aham Brahmasmi
   
 
 <br/>  
