@@ -1,22 +1,30 @@
 <div align="center">
   <img src='i-m-akshat.gif' align="center"/>
 
+</div>  <br/>
+<div align="center">
+ <img src="HelloGif.gif" style="height: 200px;" alt="Hello Gif"/><br/>
 </div>  
 
-
-### <div align="center">I'm Akshat Dwivedi, a full-time full-stack .NET developer 👨‍💻 </div>  
-  
-
-- 🔭 I’m currently working on [Hotel Reservation System](https://github.com/Akshat4756/Hotel-Booking-Application-MERN-Stack-)  
-  
-
-- 🌱 I’m currently learning MERN Stack  
-  
-
-- ❓ Ask me about anything related to ASP.NET or C# and related technologies  
-  
-
-- ⚡ Fun fact: Aham Brahmasmi
+<table>
+  <tr>
+    <td>
+      <img src="DevIntro.gif" style="border-radius: 30px; max-height: 100%;" alt="Dev Intro"/>
+    </td>
+    <td style="text-align: center;">
+      <h3>I'm Akshat Dwivedi, a full-time full-stack .NET developer 👨‍💻</h3>
+      <p style="text-align: left;">
+        Since January 2024, I’ve been working as a .NET developer at Resolute AI Software Pvt. Ltd.
+        My academic journey includes both my postgraduate and undergraduate studies from
+        Dr. Ram Manohar Lohia Avadh University, Ayodhya, UP.
+      </p><br/>
+      <p style="text-align: left;">
+        My expertise lies in developing web, desktop, and mobile applications, with a strong command of
+        React.js, Bootstrap 5, C#, and the .NET Framework.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>  
 
