@@ -87,19 +87,19 @@
       <img src="connect with me.gif" style="border-radius: 30px; max-height: 100%;" alt="Dev Intro"/>
     </td>
     <td align="center">
-      <div align="center">
-      Connect with me on LinkedIn to stay updated on my professional journey, network, and exchange ideas.<br/>
+      <div align="center" style="text-align: left;">
+          Check out my projects on GitHub. Feel free to explore, fork, and collaborate on code.<br/>
       <a href="https://github.com/i-m-akshat" target="_blank" align="center">
         <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
       </a>
         </div> 
-        <div align="center">
-       Check out my projects on GitHub. Feel free to explore, fork, and collaborate on code.<br/>
+        <div align="center" style="text-align: left;">
+      Connect with me on LinkedIn to stay updated on my professional journey, network, and exchange ideas.<br/>
       <a href="https://linkedin.com/in/imakshatdwivedi/" target="_blank" align="center">
         <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
       </a>
           </div> 
-          <div align="center">
+          <div align="center" style="text-align: left;">
        Follow me on Instagram for a blend of my personal life and passion for drawing anime characters.<br/>
       <a href="https://instagram.com/i__m__akshat/" target="_blank" align="center">
         <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
