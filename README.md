@@ -3,7 +3,7 @@
 
 </div>  <br/>
 <div align="center">
- <img src="HelloGif.gif" style="height: 200px;" alt="Hello Gif"/><br/>
+<img src='AboutMe.png' align="center"/>
 </div>  
 
 <table>
