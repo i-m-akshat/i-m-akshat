@@ -141,7 +141,9 @@
 <div align="center">
  <img src="contributions.png" alt="Skills" style="height: 50px; background-color:black;"/><br/>
 </div>  
+<div align="center">
 <img src="github-user-contribution.svg" align="center" />
+</div>
 <br/>  
 <hr/>
 <div align="center">
