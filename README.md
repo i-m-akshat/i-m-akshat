@@ -6,25 +6,26 @@
  <img src="aboutme.png" alt="About Me" style="height: 50px; background-color:black;"/><br/>
 </div>  
 
-<table style="border-style: none;">
+<div align="center" style="margin-bottom: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+
+<table style="border: none; width: 100%; max-width: 900px;">
   <tr>
-    <td>
-      <img src="DevIntro.gif" style="border-radius: 30px; max-height: 100%;" alt="Dev Intro"/>
+    <td style="width: 40%; padding: 10px;">
+      <img src="DevIntro.gif" style="border-radius: 30px; max-width: 100%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);" alt="Dev Intro"/>
     </td>
-    <td style="text-align: center;">
-      <h3>Hi ! I'm Akshat Dwivedi, a full-time full-stack .NET developer 👨‍💻</h3>
-      <p style="text-align: left;">
-        Since January 2024, I’ve been working as a .NET developer at Resolute AI Software Pvt. Ltd.
-        My academic journey includes both my postgraduate and undergraduate studies from
-        Dr. Ram Manohar Lohia Avadh University, Ayodhya, UP.
+    <td style="width: 60%; padding: 20px;">
+      <h2 style="color: #2c3e50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">👋 Hi there! I'm <span style="color: #3498db;">Akshat Dwivedi</span>, a full-time full-stack .NET developer</h2>
+      <p style="text-align: left; color: #34495e; font-size: 16px; line-height: 1.5;">
+        🚀 Since January 2024, I’ve been contributing to innovative projects as a .NET developer at <strong>Resolute AI Software Pvt. Ltd.</strong> My academic foundation was built at <strong>Dr. Ram Manohar Lohia Avadh University</strong> in Ayodhya, UP, where I completed both my postgraduate and undergraduate studies.
       </p><br/>
-      <p style="text-align: left;">
-        My expertise lies in developing web, desktop, and mobile applications, with a strong command of
-        React.js, Bootstrap 5, C#, and the .NET Framework.
+      <p style="text-align: left; color: #34495e; font-size: 16px; line-height: 1.5;">
+        💻 I specialize in creating dynamic web, desktop, and mobile applications. My technical toolkit includes <strong>React.js</strong>, <strong>Bootstrap 5</strong>, <strong>C#</strong>, and the <strong>.NET Framework</strong>. I'm passionate about crafting clean and efficient code that drives seamless user experiences.
       </p>
     </td>
   </tr>
 </table>
+
+</div>
 
 <br/>  
 
