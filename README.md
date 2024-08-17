@@ -6,13 +6,13 @@
  <img src="aboutme.png" alt="About Me" style="height: 50px; background-color:black;"/><br/>
 </div>  
 
-<table>
+<table style="border-style: none;">
   <tr>
     <td>
       <img src="DevIntro.gif" style="border-radius: 30px; max-height: 100%;" alt="Dev Intro"/>
     </td>
     <td style="text-align: center;">
-      <h3>I'm Akshat Dwivedi, a full-time full-stack .NET developer 👨‍💻</h3>
+      <h3>Hi ! I'm Akshat Dwivedi, a full-time full-stack .NET developer 👨‍💻</h3>
       <p style="text-align: left;">
         Since January 2024, I’ve been working as a .NET developer at Resolute AI Software Pvt. Ltd.
         My academic journey includes both my postgraduate and undergraduate studies from
