@@ -4,24 +4,18 @@
 </div>  
   
 
-<div style="display: flex; align-items: center; height: 300px;margin-top: 80px;padding-top: 80px;">
-    <div style="flex: 1; text-align: center;">
-        <img src="DevIntro.gif" style="border-radius: 30px; max-height: 100%;" alt="Dev Intro"/>
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <img src="HelloGif.gif" align="center" style="height: 100px;" alt="Hello Gif"/>
-        <h3>I'm Akshat Dwivedi, a full-time full-stack .NET developer 👨‍💻</h3>
-        <p style="text-align: left;">
-            Since January 2024, I’ve been working as a .NET developer at Resolute AI Software Pvt. Ltd. 
-            My academic journey includes both my postgraduate and undergraduate studies from 
-            Dr. Ram Manohar Lohia Avadh University, Ayodhya, UP.
-        </p><br/>
-        <p style="text-align: left;">
-            My expertise lies in developing web, desktop, and mobile applications, with a strong command of 
-            React.js, Bootstrap 5, C#, and the .NET Framework.
-        </p>
-    </div>
-</div>
+ <div style="display: flex; align-items: center; height: 300px;margin-top: 80px;padding-top: 80px;">
+        <div style="flex: 1; text-align: center;">
+          <img src="DevIntro.gif" style="border-radius: 30px; max-height: 100%;"/>
+        </div>
+        <div style="flex: 1; text-align: center;">
+            <img src='HelloGif.gif' align="center" style="height: 100px;"/>
+            <h3>I'm Akshat Dwivedi, a full-time full-stack .NET developer 👨‍💻</h3>
+            <p style="text-align: left;">Since January 2024, I’ve been working as a .NET developer at Resolute AI Software Pvt. Ltd. My academic journey includes both my postgraduate and undergraduate studies from Dr. Ram Manohar Lohia Avadh University, Ayodhya, UP.</p><br/>
+            <p style="text-align: left;">My expertise lies in developing web, desktop, and mobile applications, with a strong command of React.js, Bootstrap 5, C#, and the .NET Framework
+            
+        </div>
+      </div>
 
 
   
