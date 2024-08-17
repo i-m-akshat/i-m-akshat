@@ -78,36 +78,41 @@
 
 <br/>  
 
-<div align="center">
- <img src="connect.png" alt="Skills" style="height: 50px; background-color:black;"/><br/>
-</div> 
-<table>
+<div align="center" style="margin-bottom: 20px;">
+    <img src="connect.png" alt="Connect with Me" style="height: 50px; background-color: black; border-radius: 10px;" />
+</div>
+
+<table style="width: 100%; border: none;">
   <tr>
-    <td>
-      <img src="connect with me.gif" style="border-radius: 30px; max-height: 100%;" alt="Dev Intro"/>
+    <td style="width: 40%; padding: 10px;">
+      <img src="connect with me.gif" style="border-radius: 20px; width: 100%;" alt="Connect with Me" />
     </td>
-    <td align="center">
-      <div align="center" style="text-align: left;">
-          Check out my projects on GitHub. Feel free to explore, fork, and collaborate on code.<br/>
-      <a href="https://github.com/i-m-akshat" target="_blank" align="center">
-        <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
-      </a>
-        </div> 
-        <div align="center" style="text-align: left;">
-      Connect with me on LinkedIn to stay updated on my professional journey, network, and exchange ideas.<br/>
-      <a href="https://linkedin.com/in/imakshatdwivedi/" target="_blank" align="center">
-        <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-      </a>
-          </div> 
-          <div align="center" style="text-align: left;">
-       Follow me on Instagram for a blend of my personal life and passion for drawing anime characters.<br/>
-      <a href="https://instagram.com/i__m__akshat/" target="_blank" align="center">
-        <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
-      </a>  
-            </div> 
+    <td style="width: 60%; padding: 20px;">
+      <div style="margin-bottom: 15px;">
+        <h3 style="margin-bottom: 5px;">GitHub</h3>
+        <p>Check out my projects on GitHub. Feel free to explore, fork, and collaborate on code.</p>
+        <a href="https://github.com/i-m-akshat" target="_blank">
+          <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </div>
+      <div style="margin-bottom: 15px;">
+        <h3 style="margin-bottom: 5px;">LinkedIn</h3>
+        <p>Connect with me on LinkedIn to stay updated on my professional journey, network, and exchange ideas.</p>
+        <a href="https://linkedin.com/in/imakshatdwivedi/" target="_blank">
+          <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </div>
+      <div style="margin-bottom: 15px;">
+        <h3 style="margin-bottom: 5px;">Instagram</h3>
+        <p>Follow me on Instagram for a blend of my personal life and passion for drawing anime characters.</p>
+        <a href="https://instagram.com/i__m__akshat/" target="_blank">
+          <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        </a>  
+      </div>
     </td>
   </tr>
 </table>
+
 
 <br/>
 <div align="center">
