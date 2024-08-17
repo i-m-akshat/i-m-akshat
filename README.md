@@ -169,5 +169,7 @@
   </tr>
 </table>
 <br />
-
+<div align="center">
+ <img src="totoro-discord.gif" alt="Skills" style="width:100%; background-color:black;"/><br/>
+</div>
 ----
