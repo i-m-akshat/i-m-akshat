@@ -3,9 +3,8 @@
 <div align="center">
       <img src="DevIntro.gif" style="border-radius: 30px; max-height: 100%;" alt="Dev Intro"/>
     </div>
- <table>
+<table>
   <tr>
-    
     <td style="text-align: center;">
       <img src="HelloGif.gif" style="height: 100px;" alt="Hello Gif"/><br/>
       <h3>I'm Akshat Dwivedi, a full-time full-stack .NET developer 👨‍💻</h3>
@@ -21,6 +20,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
