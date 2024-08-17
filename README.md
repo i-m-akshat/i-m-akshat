@@ -1,7 +1,4 @@
-<div align="center">
-  <img src='i-m-akshat.gif' align="center"/>
 
-</div>  
   
 
  <table>
