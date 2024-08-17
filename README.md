@@ -143,8 +143,31 @@
 </div>  
 <img src="github-user-contribution.svg" align="center" />
 <br/>  
+<hr/>
+<div align="center">
+ <img src="thanks.png" alt="Skills" style="height: 50px; background-color:black;"/><br/>
+</div>  
+<table style="border: none; width: 100%; max-width: 900px;">
+  <tr>
+    <td style="width: 40%; padding: 10px;">
+      <img src="ThanksPikachu.gif" style="border-radius: 30px; max-width: 100%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);" alt="Dev Thanks"/>
+    </td>
+    <td style="width: 60%; padding: 20px;">
+      <h2>Thank You for Visiting! 🙏</h2>
 
+<p>Hello! 👋</p>
 
+<p>Thank you for taking the time to visit my GitHub profile. Your interest is greatly appreciated! I hope you find my repositories useful and interesting.</p>
+
+<p>If you have any questions, feedback, or ideas for collaboration, please don’t hesitate to reach out. I’m always eager to connect with fellow developers and work on exciting projects.</p>
+
+<p>Happy coding! 💻</p>
+
+<p>Best regards,<br>
+<strong>Akshat Dwivedi</strong></p>
+    </td>
+  </tr>
+</table>
 <br />
 
 ----
