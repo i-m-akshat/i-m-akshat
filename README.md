@@ -113,9 +113,9 @@
 <div align="center">
  <img src="githubstats.png" alt="Skills" style="height: 50px; background-color:black;"/><br/>
 </div>  
-
-[![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=i--m--akshat)](https://github.com/i--m--akshat/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=i--m--akshat&theme=dark)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=i-m-akshat&theme=default&show_icons=true&hide_border=true&count_private=true" alt="i-m-akshat's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-m-akshat&theme=default&show_icons=true&hide_border=true&layout=compact" alt="i-m-akshat's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=i-m-akshat&theme=default&hide_border=true" alt="i-m-akshat's GitHub Stats" />
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=u90xjcwbhl076bwmmby4zkmdy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>  
