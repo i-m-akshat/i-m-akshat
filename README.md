@@ -78,18 +78,28 @@
 
 <br/>  
 
-## Connect with me  
 <div align="center">
-<a href="https://github.com/i-m-akshat" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/imakshatdwivedi/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/i__m__akshat/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+ <img src="connect.png" alt="Skills" style="height: 50px; background-color:black;"/><br/>
+</div> 
+<table>
+  <tr>
+    <td>
+      <img src="connect with me.gif" style="border-radius: 30px; max-height: 100%;" alt="Dev Intro"/>
+    </td>
+    <td align="center">
+      <a href="https://github.com/i-m-akshat" target="_blank">
+        <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+      </a>
+      <a href="https://linkedin.com/in/imakshatdwivedi/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+      </a>
+      <a href="https://instagram.com/i__m__akshat/" target="_blank">
+        <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
+      </a>  
+    </td>
+  </tr>
+</table>
+
 <br/>
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-m-akshat&hide_border=true&layout=compact" align="left" />  
