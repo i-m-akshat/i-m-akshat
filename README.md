@@ -3,7 +3,7 @@
 
 </div>  <br/>
 <div align="center">
-<img src='AboutMe.png' style="height: 50px;" align="center"/><br/>
+ <img src="AboutMe.png" alt="About Me" style="height: 50px; background-color:black;"/><br/>
 </div>  
 
 <table>
