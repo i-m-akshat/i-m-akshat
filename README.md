@@ -110,8 +110,11 @@
 </table>
 
 <br/>
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-m-akshat&hide_border=true&layout=compact" align="left" />  
+<div align="center">
+ <img src="githubstats.png" alt="Skills" style="height: 50px; background-color:black;"/><br/>
+</div>  
+
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=i-m-akshat&hide_border=true&layout=compact](https://awesome-github-stats.azurewebsites.net/user-stats/i--m--akshat?cardType=level-alternate&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)" align="left" />  
 
 <br/>  
 
