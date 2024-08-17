@@ -114,7 +114,7 @@
  <img src="githubstats.png" alt="Skills" style="height: 50px; background-color:black;"/><br/>
 </div>  
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/i--m--akshat?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/i--m--akshat?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <br/>  
 
