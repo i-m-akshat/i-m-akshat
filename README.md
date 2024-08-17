@@ -87,13 +87,16 @@
       <img src="connect with me.gif" style="border-radius: 30px; max-height: 100%;" alt="Dev Intro"/>
     </td>
     <td align="center">
-      <a href="https://github.com/i-m-akshat" target="_blank">
+      <a href="https://github.com/i-m-akshat" target="_blank" align="center">
+        Connect with me on LinkedIn to stay updated on my professional journey, network, and exchange ideas.<br/>
         <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
       </a>
-      <a href="https://linkedin.com/in/imakshatdwivedi/" target="_blank">
+      <a href="https://linkedin.com/in/imakshatdwivedi/" target="_blank" align="center">
+        Check out my projects on GitHub. Feel free to explore, fork, and collaborate on code.<br/>
         <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
       </a>
-      <a href="https://instagram.com/i__m__akshat/" target="_blank">
+      <a href="https://instagram.com/i__m__akshat/" target="_blank" align="center">
+        Follow me on Instagram for a blend of my personal life and passion for drawing anime characters.<br/>
         <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
       </a>  
     </td>
