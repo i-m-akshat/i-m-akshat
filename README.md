@@ -114,8 +114,8 @@
  <img src="githubstats.png" alt="Skills" style="height: 50px; background-color:black;"/><br/>
 </div>  
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/i--m--akshat?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
-
+[![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=i--m--akshat)](https://github.com/i--m--akshat/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=i--m--akshat&theme=dark)](https://git.io/streak-stats)
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=u90xjcwbhl076bwmmby4zkmdy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>  
