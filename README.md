@@ -4,11 +4,12 @@
 
 </div>  <br/>
 <div align="center">
- <img src="aboutme.png" alt="About Me" style="height: 50px; background-color:black;"/><br/>
-</div>  
-<div align="center">
 <img src="Hi.gif" alt="Hi"/>
 </div>
+<div align="center">
+ <img src="aboutme.png" alt="About Me" style="height: 50px; background-color:black;"/><br/>
+</div>  
+
 <div align="center" style="margin-bottom: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
 <table style="border: none; width: 100%; max-width: 900px;">
