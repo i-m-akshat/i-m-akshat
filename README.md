@@ -90,7 +90,8 @@
 <table style="width: 100%; border: none;">
   <tr>
     <td style="width: 40%; padding: 10px;">
-      <img src="connect with me.gif" style="border-radius: 20px; width: 100%;" alt="Connect with Me" />
+      <!--<img src="connect with me.gif" style="border-radius: 20px; width: 100%;" alt="Connect with Me" />-->
+      <img src="Pastime (1).gif" style="border-radius: 20px; width: 100%;" alt="Connect with Me" />
     </td>
     <td style="width: 60%; padding: 20px;">
       <div style="margin-bottom: 15px;">
