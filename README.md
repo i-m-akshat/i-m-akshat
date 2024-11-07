@@ -1,6 +1,6 @@
 <div align="center">
   <!--<img src='i-m-akshat.gif' align="center"/>*/-->
-  <img src='banner.gif' align="center"/>
+  <img src='Train.gif' align="center"/>
 
 </div>  <br/>
 <div align="center">
