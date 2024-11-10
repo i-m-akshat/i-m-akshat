@@ -3,9 +3,9 @@
   <img src='IntroBanner.gif' align="center"/>
 
 </div>  <br/>
-<div align="center">
+<!--<div align="center">
 <img src="Hi.gif" alt="Hi"/>
-</div>
+</div>-->
 <div align="center">
  <img src="aboutme.png" alt="About Me" style="height: 50px; background-color:black;"/><br/>
 </div>  
