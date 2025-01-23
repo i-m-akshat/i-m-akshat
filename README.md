@@ -1,6 +1,8 @@
 <div align="center">
   <!--<img src='i-m-akshat.gif' align="center"/>*/-->
-  <img src='IntroBanner.gif' align="center"/>
+  <!--<img src='IntroBanner.gif' align="center"/>-->
+
+  <img src='Pixel artist Jason Tammemagi shares his love of cyberpunk, retrowave and 1980s culture.gif' align="center"/>
 
 </div>  <br/>
 <!--<div align="center">
