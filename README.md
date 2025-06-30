@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Blackrush.gif" alt="Banner" />
+  <img src="Blackrush.gif" alt="Banner" width="100%" />
 </div>
 
 <br/>
@@ -8,51 +8,33 @@
   <img src="aboutme.png" alt="About Me" height="50" />
 </div>
 
-## 👋 Hi there! I'm Akshat Dwivedi
+## 👋 Hello! I'm Akshat Dwivedi
 
-🚀 Full-stack .NET Developer at **Resolute AI Software Pvt. Ltd.** since January 2024  
-🎓 Postgraduate & undergraduate from **Dr. Ram Manohar Lohia Avadh University**, Ayodhya (UP)  
-💻 Passionate about building web, desktop, and mobile apps using technologies like:
+🚀 Full-stack .NET Developer at **Resolute AI Software Pvt. Ltd.**  
+🎓 PG & UG from **Dr. Ram Manohar Lohia Avadh University**, Ayodhya (UP)  
+💡 I build web, desktop & mobile apps with focus on performance, design, and usability.
 
-- **React.js**, **Bootstrap 5**, **C#**, **.NET Core**, **.NET Framework**
-- Writing clean, scalable code and delivering great user experiences
+### 💼 Tech Stack
 
----
+**Frontend:**  
+![React](https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg)  
+![Bootstrap](https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg)  
+![HTML](https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg)  
+![CSS](https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg)  
+![JS](https://profilinator.rishav.dev/skills-assets/javascript-original.svg)
 
-<div align="center">
-  <img src="Skills.png" alt="Skills" height="50"/>
-</div>
+**Backend & DB:**  
+![C#](https://profilinator.rishav.dev/skills-assets/csharp-original.svg)  
+![.NET](https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg)  
+![.NET Core](https://profilinator.rishav.dev/skills-assets/dotnetcore.png)  
+![Node.js](https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg)  
+![Express](https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg)  
+![MySQL](https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg)  
+![MongoDB](https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg)
 
-### 🧠 Skills Overview
-
-#### 🖥️ Frontend
-
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" />
-</div>
-
-#### 🧰 Backend & Databases
-
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="40" />
-</div>
-
-#### ⚙️ DevOps & Cloud
-
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" height="40" />
-</div>
+**DevOps & Tools:**  
+![Git](https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg)  
+![Azure](https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg)
 
 ---
 
@@ -60,13 +42,13 @@
   <img src="connect.png" alt="Connect with Me" height="50" />
 </div>
 
-### 📬 Connect with Me
+## 🌐 Connect with Me
 
 | Platform    | Link |
 |-------------|------|
-| 🔗 **GitHub**     | [@i-m-akshat](https://github.com/i-m-akshat) |
-| 💼 **LinkedIn**   | [@imakshatdwivedi](https://linkedin.com/in/imakshatdwivedi/) |
-| 📷 **Instagram**  | [@i__m__akshat](https://instagram.com/i__m__akshat/) |
+| 💻 GitHub     | [@i-m-akshat](https://github.com/i-m-akshat) |
+| 💼 LinkedIn   | [@imakshatdwivedi](https://linkedin.com/in/imakshatdwivedi/) |
+| 📷 Instagram  | [@i__m__akshat](https://instagram.com/i__m__akshat/) |
 
 ---
 
@@ -83,11 +65,9 @@
 ---
 
 <div align="center">
-  <img src="contributions.png" alt="Contributions" height="50" />
-</div>
-
-<div align="center">
-  <img src="github-user-contribution.svg" />
+  <img src="contributions.png" alt="GitHub Contributions" height="50" />
+  <br/>
+  <img src="github-user-contribution.svg" alt="Contribution Graph" />
 </div>
 
 ---
@@ -96,17 +76,16 @@
   <img src="thanks.png" alt="Thanks" height="50" />
 </div>
 
-<table style="border: none; width: 100%;">
+<table style="width: 100%;">
   <tr>
-    <td style="width: 40%;">
-      <img src="ThanksPikachu.gif" style="border-radius: 20px; width: 100%;" alt="Thanks!" />
+    <td width="40%">
+      <img src="ThanksPikachu.gif" alt="Thanks GIF" style="width: 100%; border-radius: 10px;" />
     </td>
-    <td style="width: 60%; vertical-align: top;">
-      <h3>Thanks for stopping by! 🙏</h3>
-      <p>If you liked my profile or work, feel free to connect or collaborate. I'm always up for building something fun and impactful. Let's create together! 🚀</p>
+    <td width="60%" valign="top">
+      <h3>Thanks for visiting!</h3>
+      <p>If you enjoyed exploring my profile, feel free to connect or collaborate on any cool ideas!</p>
+      <p><strong>Happy Coding 💻✨</strong></p>
+      <p>– Akshat Dwivedi</p>
     </td>
   </tr>
 </table>
-
----
-
