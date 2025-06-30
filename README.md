@@ -1,13 +1,10 @@
-<div align="center">
-  <!--<img src='i-m-akshat.gif' align="center"/>*/-->
-  <!--<img src='IntroBanner.gif' align="center"/>-->
+<!--<div align="center">
+
 
   <img src='Blackrush.gif' align="center"/>
 
 </div>  <br/>
-<!--<div align="center">
-<img src="Hi.gif" alt="Hi"/>
-</div>-->
+
 <div align="center">
  <img src="aboutme.png" alt="About Me" style="height: 50px; background-color:black;"/><br/>
 </div>  
@@ -92,7 +89,6 @@
 <table style="width: 100%; border: none;">
   <tr>
     <td style="width: 40%; padding: 10px;">
-      <!--<img src="connect with me.gif" style="border-radius: 20px; width: 100%;" alt="Connect with Me" />-->
       <img src="Pastime (1).gif" style="border-radius: 20px; width: 100%;" alt="Connect with Me" />
     </td>
     <td style="width: 60%; padding: 20px;">
@@ -179,7 +175,57 @@
 </table>
 <br />
 <div align="center">
- <!--<img src="totoro-discord.gif" alt="Skills" style="width:100%; background-color:black;"/><br/>-->
-  <!--<img src="download (8).gif" alt="Skills" style="width:100%; background-color:black;"/>-->
 </div>
----
+---->
+👋 Hi there! I'm Akshat Dwivedi
+🚀 Since January 2024, I’ve been contributing to innovative projects as a .NET developer at Resolute AI Software Pvt. Ltd. My academic foundation was built at Dr. Ram Manohar Lohia Avadh University in Ayodhya, UP, where I completed both my postgraduate and undergraduate studies.
+
+💻 I specialize in creating dynamic web, desktop, and mobile applications. My technical toolkit includes React.js, Bootstrap 5, C#, and the .NET Framework. I'm passionate about crafting clean and efficient code that drives seamless user experiences.
+
+🛠️ Skills
+Frontend
+React
+
+Bootstrap
+
+CSS3
+
+HTML5
+
+Backend
+MySQL
+
+C#
+
+.NET Framework
+
+.NET Core
+
+DevOps
+Git
+
+Azure
+
+🔗 Connect with Me
+GitHub
+Check out my projects on GitHub. Feel free to explore, fork, and collaborate on code.
+
+LinkedIn
+Connect with me on LinkedIn to stay updated on my professional journey, network, and exchange ideas.
+
+Instagram
+Follow me on Instagram for a blend of my personal life and passion for drawing anime characters.
+
+📊 GitHub Stats
+📈 Contributions
+🙏 Thank You for Visiting!
+Hello! 👋
+
+Thank you for taking the time to visit my GitHub profile. Your interest is greatly appreciated! I hope you find my repositories useful and interesting.
+
+If you have any questions, feedback, or ideas for collaboration, please don’t hesitate to reach out. I’m always eager to connect with fellow developers and work on exciting projects.
+
+Happy coding! 💻
+
+Best regards,
+Akshat Dwivedi
