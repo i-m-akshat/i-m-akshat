@@ -180,6 +180,6 @@
 <br />
 <div align="center">
  <!--<img src="totoro-discord.gif" alt="Skills" style="width:100%; background-color:black;"/><br/>-->
-  <img src="download (8).gif" alt="Skills" style="width:100%; background-color:black;"/>
+  <!--<img src="download (8).gif" alt="Skills" style="width:100%; background-color:black;"/>-->
 </div>
 ---
