@@ -45,10 +45,7 @@
   <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"/>
 </p>
 
 #### 🚀 DevOps & Tools
