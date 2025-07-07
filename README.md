@@ -95,14 +95,14 @@
 ---
 
 <!-- CONTRIBUTIONS -->
-<div align="center">
+<!--<div align="center">
   <img src="contributions.png" alt="Contributions" height="50" />
   <br/>
   <img src="github-user-contribution.svg" width="100%" />
 </div>
 
 ---
-
+-->
 <!-- THANK YOU -->
 <div align="center">
   <img src="thanks.png" alt="Thanks" height="50" />
