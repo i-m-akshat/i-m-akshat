@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="Blackrush.gif" alt="Banner" width="100%" />
+  <img src="WANEELLA pixel art.gif" alt="Banner" width="100%" />
 </div>
 
 <br/>
