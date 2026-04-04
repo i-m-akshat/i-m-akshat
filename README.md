@@ -6,7 +6,7 @@
 <br/>
 
 <!-- ABOUT ME -->
-<div align="center">
+<!--<div align="center">
   <h2>Hi, I'm <span style="color:#3498db">Akshat Dwivedi</span> 👋</h2>
   <p>💻 Full-stack .NET Developer at <strong>Resolute AI Software Pvt. Ltd.</strong></p>
   <p>🎓 Postgraduate & Graduate from <strong>Dr. Ram Manohar Lohia Avadh University</strong></p>
@@ -16,7 +16,7 @@
 ---
 
 <!-- SKILLS -->
-<div align="center">
+<!--<div align="center">
   <h3>⚙️ Tech Stack</h3>
 </div>
 
@@ -46,7 +46,7 @@
 ---
 
 <!-- CONNECT -->
-<div align="center">
+<!--<div align="center">
   <h3>🌐 Connect with Me</h3>
   <a href="https://github.com/i-m-akshat" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
@@ -57,4 +57,4 @@
   <a href="https://instagram.com/i__m__akshat/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
+</div>-->
