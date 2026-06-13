@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="Room at dawn 2.gif" alt="Banner" width="100%" />
+  <img src="download.webp" alt="Banner" width="100%" />
 </div>
 
 <br/>
