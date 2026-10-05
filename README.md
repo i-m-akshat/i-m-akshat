@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="download.webp" alt="Banner" width="100%" />
+  <img src="download.gif" alt="Banner" width="100%" />
 </div>
 
 <br/>
